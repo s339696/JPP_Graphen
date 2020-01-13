@@ -1,0 +1,498 @@
+<gxl>
+<graph id="id0">
+<node id="id1">
+<attr name="description">
+<string>n1</string>
+</attr>
+<attr name="x">
+<int>100</int>
+</attr>
+<attr name="y">
+<int>100</int>
+</attr>
+</node>
+<node id="id2">
+<attr name="description">
+<string>n2</string>
+</attr>
+<attr name="x">
+<int>200</int>
+</attr>
+<attr name="y">
+<int>150</int>
+</attr>
+</node>
+<node id="id3">
+<attr name="description">
+<string>n3</string>
+</attr>
+<attr name="x">
+<int>150</int>
+</attr>
+<attr name="y">
+<int>250</int>
+</attr>
+</node>
+<node id="id4">
+<attr name="description">
+<string>n4</string>
+</attr>
+<attr name="x">
+<int>50</int>
+</attr>
+<attr name="y">
+<int>200</int>
+</attr>
+</node>
+<node id="id5">
+<attr name="description">
+<string>n5</string>
+</attr>
+<attr name="x">
+<int>300</int>
+</attr>
+<attr name="y">
+<int>150</int>
+</attr>
+</node>
+<node id="id6">
+<attr name="description">
+<string>n6</string>
+</attr>
+<attr name="x">
+<int>350</int>
+</attr>
+<attr name="y">
+<int>250</int>
+</attr>
+</node>
+<node id="id7">
+<attr name="description">
+<string>n7</string>
+</attr>
+<attr name="x">
+<int>300</int>
+</attr>
+<attr name="y">
+<int>350</int>
+</attr>
+</node>
+<node id="id8">
+<attr name="description">
+<string>n8</string>
+</attr>
+<attr name="x">
+<int>200</int>
+</attr>
+<attr name="y">
+<int>350</int>
+</attr>
+</node>
+<node id="id9">
+<attr name="description">
+<string>n9</string>
+</attr>
+<attr name="x">
+<int>200</int>
+</attr>
+<attr name="y">
+<int>100</int>
+</attr>
+</node>
+<node id="id10">
+<attr name="description">
+<string>n10</string>
+</attr>
+<attr name="x">
+<int>100</int>
+</attr>
+<attr name="y">
+<int>300</int>
+</attr>
+</node>
+<node id="id11">
+<attr name="description">
+<string>n11</string>
+</attr>
+<attr name="x">
+<int>450</int>
+</attr>
+<attr name="y">
+<int>250</int>
+</attr>
+</node>
+<node id="id12">
+<attr name="description">
+<string>n12</string>
+</attr>
+<attr name="x">
+<int>500</int>
+</attr>
+<attr name="y">
+<int>350</int>
+</attr>
+</node>
+<node id="id13">
+<attr name="description">
+<string>n13</string>
+</attr>
+<attr name="x">
+<int>450</int>
+</attr>
+<attr name="y">
+<int>450</int>
+</attr>
+</node>
+<node id="id14">
+<attr name="description">
+<string>n14</string>
+</attr>
+<attr name="x">
+<int>350</int>
+</attr>
+<attr name="y">
+<int>450</int>
+</attr>
+</node>
+<node id="id15">
+<attr name="description">
+<string>n15</string>
+</attr>
+<attr name="x">
+<int>150</int>
+</attr>
+<attr name="y">
+<int>450</int>
+</attr>
+</node>
+<node id="id16">
+<attr name="description">
+<string>n16</string>
+</attr>
+<attr name="x">
+<int>50</int>
+</attr>
+<attr name="y">
+<int>450</int>
+</attr>
+</node>
+<node id="id17">
+<attr name="description">
+<string>n17</string>
+</attr>
+<attr name="x">
+<int>50</int>
+</attr>
+<attr name="y">
+<int>550</int>
+</attr>
+</node>
+<node id="id18">
+<attr name="description">
+<string>n18</string>
+</attr>
+<attr name="x">
+<int>150</int>
+</attr>
+<attr name="y">
+<int>550</int>
+</attr>
+</node>
+<edge from="id2" id="id19" to="id1">
+<attr name="description">
+<string>id101</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id1" id="id20" to="id2">
+<attr name="description">
+<string>id100</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id2" id="id21" to="id3">
+<attr name="description">
+<string>id102</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id3" id="id22" to="id2">
+<attr name="description">
+<string>id103</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id3" id="id23" to="id4">
+<attr name="description">
+<string>id104</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id4" id="id24" to="id3">
+<attr name="description">
+<string>id144</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id1" id="id25" to="id4">
+<attr name="description">
+<string>id105</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id4" id="id26" to="id1">
+<attr name="description">
+<string>id106</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id5" id="id27" to="id2">
+<attr name="description">
+<string>id107</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id5" id="id28" to="id6">
+<attr name="description">
+<string>id108</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id6" id="id29" to="id5">
+<attr name="description">
+<string>id109</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id6" id="id30" to="id7">
+<attr name="description">
+<string>id110</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id7" id="id31" to="id6">
+<attr name="description">
+<string>id111</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id7" id="id32" to="id8">
+<attr name="description">
+<string>id112</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id8" id="id33" to="id7">
+<attr name="description">
+<string>id113</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id8" id="id34" to="id3">
+<attr name="description">
+<string>id114</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id6" id="id35" to="id11">
+<attr name="description">
+<string>id115</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id11" id="id36" to="id6">
+<attr name="description">
+<string>id116</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id11" id="id37" to="id12">
+<attr name="description">
+<string>id117</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id12" id="id38" to="id11">
+<attr name="description">
+<string>id118</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id12" id="id39" to="id13">
+<attr name="description">
+<string>id119</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id13" id="id40" to="id12">
+<attr name="description">
+<string>id120</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id13" id="id41" to="id14">
+<attr name="description">
+<string>id121</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id14" id="id42" to="id13">
+<attr name="description">
+<string>id122</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id14" id="id43" to="id7">
+<attr name="description">
+<string>id123</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id7" id="id44" to="id14">
+<attr name="description">
+<string>id124</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id1" id="id45" to="id9">
+<attr name="description">
+<string>id125</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id9" id="id46" to="id5">
+<attr name="description">
+<string>id126</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id5" id="id47" to="id9">
+<attr name="description">
+<string>id136</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id10" id="id48" to="id8">
+<attr name="description">
+<string>id127</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id8" id="id49" to="id10">
+<attr name="description">
+<string>id147</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id4" id="id50" to="id10">
+<attr name="description">
+<string>id158</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id8" id="id51" to="id15">
+<attr name="description">
+<string>id129</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id15" id="id52" to="id16">
+<attr name="description">
+<string>id130</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id16" id="id53" to="id17">
+<attr name="description">
+<string>id131</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id17" id="id54" to="id18">
+<attr name="description">
+<string>id132</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+<edge from="id18" id="id55" to="id15">
+<attr name="description">
+<string>id133</string>
+</attr>
+<attr name="cost">
+<float>1.0</float>
+</attr>
+</edge>
+</graph>
+</gxl>

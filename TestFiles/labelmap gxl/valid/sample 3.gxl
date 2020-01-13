@@ -1,0 +1,108 @@
+Teil 1: GIF aus selbst erstellten Formen
+
+1. Dokument erstellen: Strg + N oder Datei neu
+
+breite: 30cm
+höhe: 16cm 
+
+rgb
+hintergrund weiß
+
+2. Neue ebene: klick auf den block
+
+3. neuer kreis: rechtsklick auf das Rechteck werkzeug
+	-> ellipsen werkzeug
+	-> gedrückte shift taste aufziehen.
+	-> doppelklick auf ebenen Bild -> farbe auswählen Rot
+	-> namen geben: doppelklick auf namen
+	
+4. Ebene duplizieren 	
+5. unschön -> ausrichten
+	5.1 verschieben-Werkzeug auswählen; ganz oben oder einfach V drücken
+	5.2 Ebenen makieren: obere Ellipse auswählen, dann mit gedrückter shift taste auf letzte ellipsen ebene Klicken
+	5.3 um horizontale Mittelachse verteilen: mittleres symbol von den rechten
+	5.4 die drei ausgewählten ebenen in einen ordner schieben
+	5.5 ordner und hintergrund auswählen wieder mit mit shift taste
+	5.6 horizontale Mittelachse ausrichten;
+	5.7 an vertikaler Mittelachse ausrichten
+	5.8 ebenen aus odner(wichtig über hintergrunebene) und ordner löschen
+6. Frame erstellen erstellen
+	6.1 klick auf Fenster
+	6.2 klick auf Zeitleiste
+	6.3 klick auf Dropdown
+	6.4 klick auf Frame Animation Erstellen
+	6.5 klick auf Button
+	6.6 erster Frame ist da und ausgewählt Blaue umrandung;
+	6.7 nur rot anzeigen; anderen auf das Auge bei den Ebenen drücken;
+	6.8 neuer Frame Button
+	6.91 nur Blau sichtbar
+	6.92 nur grün sichtbar
+7. Zeit einstellen
+	7.1 bei allen 0,5 sekunden
+8. jetzt mal Play drücken
+9. endlos schleife
+	9.1 dropdown bei einmal( option für schleifen auswählen)
+	9.2 klick auf unbegerenzt
+	9.3 wieder Play
+10. Speichern
+	10.1 Datei
+	10.2 für web speichern (einfachen tastenkürzel Alt + Umschalt+ Strg + S)
+
+	
+Teil 2: GIF aus Fotostrecke
+
+1. Datei öffnen
+2. Skripten -> Dateien im Stapel laden
+3. Zeitleiste öffnen
+4. Frame-Animation erstellen
+5. Burger Menu
+	-> Frames aus Ebenen erstellen
+6. Endlosschleife einstellen -> Abspielen
+7. Exportieren -> Für Web speichern (Legacy)
+8. GIF 128 Ditherig, 256 Farben, Höhe und Breite einstellen, Unbegrenzt
+		-> Speichern anschauen
+		
+Teil 3: GIF Animated Glitch
+1.			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
